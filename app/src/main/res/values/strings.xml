@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PESEL WUM</string>
+    <string name="textInstrukcja">Podaj pierwsze 6 cyfr peselu i naciśnij przycisk</string>
+    <string name="textWiek">Wiek</string>
+    <string name="editPesel" translatable="false"></string>
+    <string name="buttonOblicz">Oblicz</string>
+    <string name="editPeselHint">Pierwsze 6 cyfr peselu</string>
+</resources>
