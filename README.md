@@ -6,3 +6,7 @@ It is android application made with java and android studio. It calculates age o
 Text in app is in polish only but it is so easy to use. You can download it from [here]("../apk"). To calculate the age put in first 6 digits of PESEL in text box and press button. 
 
 It is first android application i've ever made. It was fun trying out something new and the app is pretty helpful for my friends :)
+
+## Technologies used:
+- Java
+- Android Studio
